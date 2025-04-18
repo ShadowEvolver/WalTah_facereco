@@ -1,0 +1,34 @@
+[
+  {
+    "examiner": "examiner1",
+    "hall": "Hall A",
+    "timeslot": "9:00-11:00",
+    "students": [
+      {
+        "label": 0,
+        "student_id": "S101",
+        "hall": "Hall A",
+        "number": "A12"
+      },
+      {
+        "label": 3,
+        "student_id": "S102",
+        "hall": "Hall A",
+        "number": "A14"
+      }
+    ]
+  },
+  {
+    "examiner": "examiner2",
+    "hall": "Hall B",
+    "timeslot": "1:00-3:00",
+    "students": [
+      {
+        "label": 4,
+        "student_id": "S201",
+        "hall": "Hall B",
+        "number": "B10"
+      }
+    ]
+  }
+]
